@@ -11,7 +11,6 @@ body {
   /* centering the container */
   display: flex;
   justify-content: center;
-  box-sizing: border-box;
 }
 
 #background-mobile {
@@ -109,31 +108,31 @@ ul {
 }
 
 /* styling social media icons */
-ul li:nth-child(1){
+ul li:nth-child(1) {
   background: url(Pictures/Social-Media/Twitter.png);
   height: 19.96px;
   width: 19.99px;
 }
 
-ul li:nth-child(2){
+ul li:nth-child(2) {
   background: url(Pictures/Social-Media/Linkedin.png);
   height: 20px;
   width: 20px;
 }
 
-ul li:nth-child(3){
+ul li:nth-child(3) {
   background: url(Pictures/Social-Media/M.png);
   height: 16px;
   width: 20px;
 }
 
-ul li:nth-child(4){
+ul li:nth-child(4) {
   background: url(Pictures/Social-Media/GitHub.png);
   height: 20px;
   width: 17.99px;
 }
 
-ul li:nth-child(5){
+ul li:nth-child(5) {
   background: url(Pictures/Social-Media/Vector.png);
   width: 14.47px;
   height: 20px;
